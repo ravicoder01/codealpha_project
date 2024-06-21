@@ -1,2 +1,2 @@
 # codealpha_project
-Project by Codealpha 
+This is the first project i am working on by Codealpha . I will program to make a Hangman games using python.
